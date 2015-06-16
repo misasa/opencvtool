@@ -1,5 +1,4 @@
 require "opencvtool/version"
-
-module Opencvtool
-  # Your code goes here...
+require "opencvtool/opencvtool"
+module OpenCvTool
 end
