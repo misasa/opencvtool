@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Opencvtool::VERSION
   spec.authors       = ["Yusuke Yachi"]
   spec.email         = ["yyachi@misasa.okayama-u.ac.jp"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Wrapper for opencvtool}
+  spec.description   = %q{Wrapper for opencvtool}
+  spec.homepage      = "http://dream.misasa.okayama-u.ac.jp"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
@@ -20,4 +20,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "rspec", "~> 2.14"
 end

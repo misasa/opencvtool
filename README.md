@@ -1,9 +1,9 @@
 # Opencvtool
 
-TODO: Write a gem description
+Wrapper for opencvtool
 
 ## Installation
-
+Install opencvtool http://babel.misasa.okayama-u.ac.jp/ci/job/opencvtool
 Add this line to your application's Gemfile:
 
 ```ruby
