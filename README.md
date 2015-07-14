@@ -1,9 +1,17 @@
 # Opencvtool
 
-Wrapper for opencvtool
+Provide tools via gem that interact with OpenCV.
+Note that [OpenCV](http://opencv.org/) is image manuplating library for Python.
+
+## Dependency
+
+Install opencvtool http://babel.misasa.okayama-u.ac.jp/ci/job/opencvtool
+
+### [?opencvtool?](http://devel.misasa.okayama-u.ac.jp/gitlab/pythonpackage/opencvtool/tree/master "follow instruction")
+
 
 ## Installation
-Install opencvtool http://babel.misasa.okayama-u.ac.jp/ci/job/opencvtool
+
 Add this line to your application's Gemfile:
 
 ```ruby
