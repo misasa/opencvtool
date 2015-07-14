@@ -1,6 +1,6 @@
 # Opencvtool
 
-Provide Ruby API via gem that interact with OpenCV.
+Provide Ruby API via gem that interacts with OpenCV.
 Note that [OpenCV](http://opencv.org/) is image manuplating library for Python.
 
 ## Dependency
