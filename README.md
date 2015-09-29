@@ -1,14 +1,14 @@
-# Opencvtool
+# opencvtool
 
 Provide Ruby API via gem that interacts with OpenCV.
 Note that [OpenCV](http://opencv.org/) is image manuplating library for Python.
 
-## Dependency
+# Dependency
 
-### [opencvtool](http://devel.misasa.okayama-u.ac.jp/gitlab/pythonpackage/opencvtool/tree/master "follow instruction")
+## [opencvtool](http://devel.misasa.okayama-u.ac.jp/gitlab/pythonpackage/opencvtool/tree/master "follow instruction")
 
 
-## Installation
+# Installation
 
 Add this line to your application's Gemfile:
 
@@ -25,15 +25,15 @@ Or install it yourself as:
     $ gem source -a http://dream.misasa.okayama-u.ac.jp/rubygems
     $ gem install opencvtool
 
-## Commands
+# Commands
 
 No command is installed by this gem.
 
-## Usage
+# Usage
 
 See specfile how to call Ruby API.
 
-## Contributing
+# Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/opencvtool/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
