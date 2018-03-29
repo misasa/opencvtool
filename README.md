@@ -5,7 +5,7 @@ Note that [OpenCV](http://opencv.org/) is image manuplating library for Python.
 
 # Dependency
 
-## [opencvtool](http://devel.misasa.okayama-u.ac.jp/gitlab/pythonpackage/opencvtool/tree/master "follow instruction")
+## [python package -- opencvtool](http://devel.misasa.okayama-u.ac.jp/gitlab/pythonpackage/opencvtool/tree/master "follow instruction")
 
 
 # Installation
