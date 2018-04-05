@@ -2,6 +2,7 @@
 
 Provide Ruby API via gem that interacts with OpenCV.
 Note that [OpenCV](http://opencv.org/) is image manuplating library for Python.
+This is called by [gem package -- multi_stage](http://devel.misasa.okayama-u.ac.jp/gitlab/gems/multi_stage/tree/master).
 
 # Dependency
 
