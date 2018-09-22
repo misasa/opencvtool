@@ -1,12 +1,18 @@
 # gem package -- opencvtool
 
-Provide Ruby API via gem that interacts with OpenCV.
-Note that [OpenCV](http://opencv.org/) is image manuplating library for Python.
-This is called by [gem package -- multi_stage](http://babel.misasa.okayama-u.ac.jp/gems/multi_stage/tree/master).
+Ruby package that interacts with utilities by ImageMosaic.
+
+This package provides Ruby API via gem that interacts with OpenCV.
+Note that [OpenCV](http://opencv.org/) is image manuplating library
+for Python.
+
+See [gem package -- multi_stage](http://babel.misasa.okayama-u.ac.jp/gems/multi_stage/tree/master)
+that refers to this package.
 
 # Dependency
 
-## [python package -- opencvtool](http://babel.misasa.okayama-u.ac.jp/pythonpackage/opencvtool/tree/master "follow instruction")
+<!-- ## [python package -- opencvtool](http://babel.misasa.okayama-u.ac.jp/pythonpackage/opencvtool/tree/master "follow instruction") -->
+## [python package -- image_mosaic](https://github.com/misasa/image_mosaic)
 
 
 # Installation
