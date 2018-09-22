@@ -1,27 +1,17 @@
-# opencvtool
+# gem package -- opencvtool
 
 Provide Ruby API via gem that interacts with OpenCV.
 Note that [OpenCV](http://opencv.org/) is image manuplating library for Python.
-This is called by [gem package -- multi_stage](http://devel.misasa.okayama-u.ac.jp/gitlab/gems/multi_stage/tree/master).
+This is called by [gem package -- multi_stage](http://babel.misasa.okayama-u.ac.jp/gems/multi_stage/tree/master).
 
 # Dependency
 
-## [python package -- opencvtool](http://devel.misasa.okayama-u.ac.jp/gitlab/pythonpackage/opencvtool/tree/master "follow instruction")
+## [python package -- opencvtool](http://babel.misasa.okayama-u.ac.jp/pythonpackage/opencvtool/tree/master "follow instruction")
 
 
 # Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'opencvtool'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+Install this package as:
 
     $ gem source -a http://dream.misasa.okayama-u.ac.jp/rubygems
     $ gem install opencvtool
