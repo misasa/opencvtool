@@ -1,6 +1,6 @@
 # gem package -- opencvtool
 
-Ruby package that interacts with utilities by ImageMosaic.
+Ruby package that interacts with utilities by [python package -- image_mosaic](https://github.com/misasa/image_mosaic).
 
 This package provides Ruby API via gem that interacts with OpenCV.
 Note that [OpenCV](http://opencv.org/) is image manuplating library
