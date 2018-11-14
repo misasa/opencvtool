@@ -2,8 +2,7 @@
 
 Ruby package that interacts with utilities by [python package -- image_mosaic](https://github.com/misasa/image_mosaic).
 
-This package provides Ruby API that interacts with [OpenCV](http://opencv.org/), that is image manuplating library
-for Python via [gem package -- multi_stage](https://gitlab.misasa.okayama-u.ac.jp/gems/multi_stage/tree/master).
+This package provides Ruby API that interacts with [OpenCV](http://opencv.org/) via [gem package -- multi_stage](https://gitlab.misasa.okayama-u.ac.jp/gems/multi_stage/tree/master).
 
 See [gem package -- multi_stage](https://gitlab.misasa.okayama-u.ac.jp/gems/multi_stage/tree/master)
 that refers to this package.
