@@ -24,7 +24,7 @@ No command is installed by this gem.
 
 # Usage
 
-See specfile how to call Ruby API.
+See specfile to tell how to call Ruby API.
 
 # Contributing
 
