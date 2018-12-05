@@ -2,7 +2,10 @@
 
 Ruby package that provides Ruby API that utilizes [python package -- image_mosaic](https://github.com/misasa/image_mosaic).
 
+
 See [gem package -- multi_stage](https://gitlab.misasa.okayama-u.ac.jp/gems/multi_stage)
+that refers to this package.
+See [gem package -- vstool](https://gitlab.misasa.okayama-u.ac.jp/gems/vstool)
 that refers to this package.
 
 # Dependency
