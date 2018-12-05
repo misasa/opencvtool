@@ -7,6 +7,8 @@ See [gem package -- multi_stage](https://gitlab.misasa.okayama-u.ac.jp/gems/mult
 that refers to this package.
 See [gem package -- vstool](https://gitlab.misasa.okayama-u.ac.jp/gems/vstool)
 that refers to this package.
+See [rake project -- mosaic-sem](https://gitlab.misasa.okayama-u.ac.jp/DREAM/mosaic-sem)
+that refers to this package.
 
 # Dependency
 
