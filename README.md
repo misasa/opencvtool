@@ -7,8 +7,6 @@ See [gem package -- multi_stage](https://github.com/misasa/multi_stage)
 that refers to this package.
 See [gem package -- vstool](https://github.com/misasa/vstool)
 that refers to this package.
-See [rake project -- mosaic-sem](https://gitlab.misasa.okayama-u.ac.jp/DREAM/mosaic-sem)
-that refers to this package.
 
 # Dependency
 
